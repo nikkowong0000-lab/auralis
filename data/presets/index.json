@@ -1,0 +1,92 @@
+[
+    {
+        "name":  "7Hz Salnotes Zero",
+        "source":  "oratory1990",
+        "form":  "in-ear",
+        "file":  "7Hz Salnotes Zero.txt"
+    },
+    {
+        "name":  "AKG K371",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "AKG K371.txt"
+    },
+    {
+        "name":  "Audio-Technica ATH-M50x",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "Audio-Technica ATH-M50x.txt"
+    },
+    {
+        "name":  "Audio-Technica ATH-R70x",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "Audio-Technica ATH-R70x.txt"
+    },
+    {
+        "name":  "Beyerdynamic DT 770 Pro",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "Beyerdynamic DT 770 Pro.txt"
+    },
+    {
+        "name":  "Beyerdynamic DT 990 Pro",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "Beyerdynamic DT 990 Pro.txt"
+    },
+    {
+        "name":  "Bose QuietComfort 45",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "Bose QuietComfort 45.txt"
+    },
+    {
+        "name":  "HIFIMAN Edition XS",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "HIFIMAN Edition XS.txt"
+    },
+    {
+        "name":  "Sennheiser HD 560S",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "Sennheiser HD 560S.txt"
+    },
+    {
+        "name":  "Sennheiser HD 600",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "Sennheiser HD 600.txt"
+    },
+    {
+        "name":  "Sennheiser HD 650",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "Sennheiser HD 650.txt"
+    },
+    {
+        "name":  "Sony WF-1000XM4",
+        "source":  "oratory1990",
+        "form":  "in-ear",
+        "file":  "Sony WF-1000XM4.txt"
+    },
+    {
+        "name":  "Sony WF-1000XM5",
+        "source":  "oratory1990",
+        "form":  "in-ear",
+        "file":  "Sony WF-1000XM5.txt"
+    },
+    {
+        "name":  "Sony WH-1000XM4",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "Sony WH-1000XM4.txt"
+    },
+    {
+        "name":  "Sony WH-1000XM5",
+        "source":  "oratory1990",
+        "form":  "over-ear",
+        "file":  "Sony WH-1000XM5.txt"
+    }
+]
