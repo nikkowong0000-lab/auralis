@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "auralis"
+version = "1.0.0"
+description = "Headphone AutoEQ studio for Windows — Wavelet-inspired EQ with Equalizer APO export"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Nikko" }]
+dependencies = [
+  "customtkinter>=5.2.0",
+  "matplotlib>=3.8.0",
+  "numpy>=1.26.0",
+  "scipy>=1.11.0",
+  "Pillow>=10.0.0",
+]
+
+[project.scripts]
+auralis = "auralis.app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
